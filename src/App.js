@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Typography } from "antd";
 import Tooltip from "./tooltip";
